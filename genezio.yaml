@@ -13,6 +13,6 @@ backend:
             - npm install
         local:
             - npm install
-name: bd-nvaynode
+name: afb
 region: us-east-1
 yamlVersion: 2
