@@ -1,6 +1,6 @@
 backend:
     functions:
-        - entry: db.js
+        - entry: server.js
           handler: handler
           name: express
           path: .
